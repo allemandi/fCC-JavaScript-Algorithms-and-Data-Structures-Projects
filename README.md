@@ -10,3 +10,10 @@ Returns true if the given string is a palindrome. Otherwise, returns false.
 
 ## Roman Numeral Converter
 Converts the given number into a Roman numeral.
+
+## Caesars Cipher
+Encodes string as ROT13 input and returns a decoded string.
+
+> A common modern use is the ROT13 cipher, where the values of the letters are shifted by 13 places. Thus 'A' ↔ 'N', 'B' ↔ 'O' and so on. --fCC challenge description
+
+**Note:** Only uppercase string input functions as required by this challenge. Non-alphabetic characters (i.e. spaces, punctuation) are not mutated in final string.
