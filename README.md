@@ -42,3 +42,6 @@ Returns `{status: "INSUFFICIENT_FUNDS", change: []}` if `cid` is less than chang
 Returns `{status: "CLOSED", change: [...]}` with `cid` for key change if  equal to change due.
 
 Returns `{status: "OPEN", change: [...]}`, with currency value sorted in descending order as value of the change key.
+
+# License
+MIT
