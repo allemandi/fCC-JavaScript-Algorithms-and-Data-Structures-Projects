@@ -1,5 +1,6 @@
 # fCC JavaScript Algorithms and Data Structures Projects
 Project Challenges for freeCodeCamp's JavaScript Algorithms and Data Structures Certification
+🔍 Palindrome Checker • 🪭 Roman Numeral Converter • 🕵️ ROT13 Cipher • 📞 US Phone Validator • 💰 Cash Register Simulator
 
 ## Palindrome Checker
 Returns `true` if the given string is a palindrome. Otherwise, returns `false`.
